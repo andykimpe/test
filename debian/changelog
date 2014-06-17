@@ -1,0 +1,5 @@
+test (0.1-1) trusty; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Kimpe Andy (rpm and ppa key) <andykimpe@gmail.com>  Tue, 17 Jun 2014 04:03:00 +0200
