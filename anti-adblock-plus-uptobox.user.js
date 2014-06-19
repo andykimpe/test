@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Anti-AntiBlock Plus
 // @description Skip a lot of anti-adblock.
-// @author		floxflob
+// @author		floxflob andykimpe (update uptobox and post github)
 // @homepageURL	https://github.com/andykimpe/test/blob/master/anti-adblock-plus-uptobox
 // @updateURL 	https://raw.githubusercontent.com/andykimpe/test/master/anti-adblock-plus-uptobox.meta.js
 // @downloadURL	https://raw.githubusercontent.com/andykimpe/test/master/anti-adblock-plus-uptobox.user.js
