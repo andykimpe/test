@@ -4,7 +4,7 @@
 // @author		floxflob
 // @homepageURL	https://github.com/andykimpe/test/blob/master/anti-adblock-plus-uptobox
 // @updateURL 	http://userscripts.org:8080/scripts/source/158054.meta.js
-// @downloadURL	http://userscripts.org:8080/scripts/source/158054.user.js
+// @downloadURL	https://raw.githubusercontent.com/andykimpe/test/master/anti-adblock-plus-uptobox.js
 // @license	GPL version 3
 // @include     *
 // @exclude http*://*google.*
